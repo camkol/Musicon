@@ -7,3 +7,5 @@
 3. JavaScript
 
 ## Notes
+
+-Saved and modified photos for future resource
