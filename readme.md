@@ -8,4 +8,4 @@
 
 ## Notes
 
--Saved and modified photos for future resource
+- Saved and modified photos for future resource
